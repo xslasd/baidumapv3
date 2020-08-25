@@ -16,6 +16,8 @@ const (
 	Geocoder_Url = "http://api.map.baidu.com/geocoding/v3"
 	// 普通IP定位
 	IPLocation_Url = "http://api.map.baidu.com/location/ip"
+	// 地址解析聚合
+	// AddressAnalyzer_Url = "api.map.baidu.com/address_analyzer/v1"
 )
 
 type BaiduMapSDK struct {
@@ -40,6 +42,8 @@ func (s *BaiduMapSDK) ReverseGeocoding(lat, lng float64) (*ReverseGeocodingRes, 
 	params := url.Values{}
 	params.Set("location", fmt.Sprintf("%v,%v", lat, lng))
 	params.Set("output", "json")
+	params.Set("coordtype", "gcj02ll")
+	params.Set("ret_coordtype", "gcj02ll")
 	return s.ReverseGeocodingParams(&params)
 }
 
@@ -88,6 +92,7 @@ func (s *BaiduMapSDK) Geocoder(address string) (*GeocoderRes, error) {
 	params := url.Values{}
 	params.Set("address", address)
 	params.Set("output", "json")
+	params.Set("ret_coordtype", "gcj02ll")
 	return s.GeocoderParams(&params)
 }
 

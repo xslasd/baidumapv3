@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cddb39e6-e2fc-4060-91d0-cabdc5e2cb69" name="默认的" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.go" beforeDir="false" afterPath="$PROJECT_DIR$/index.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,6 +90,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VgoProject">
     <environment>
@@ -111,21 +112,29 @@
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state x="509" y="241" key="EnvironmentVariablesDialog/0.0.1280.760@0.0.1280.760" timestamp="1598099869515" />
-    <state width="1238" height="190" key="GridCell.Tab.0.bottom" timestamp="1598111250548">
-      <screen x="0" y="0" width="1280" height="760" />
+    <state x="2981" y="95" key="FileChooserDialogImpl" timestamp="1598152920930">
+      <screen x="2560" y="0" width="1280" height="680" />
     </state>
+    <state x="2981" y="95" key="FileChooserDialogImpl/0.0.1280.760/2560.0.1280.680@2560.0.1280.680" timestamp="1598152920930" />
+    <state width="1238" height="190" key="GridCell.Tab.0.bottom" timestamp="1598146134116">
+      <screen x="2560" y="0" width="1280" height="680" />
+    </state>
+    <state width="1238" height="190" key="GridCell.Tab.0.bottom/0.0.1280.760/2560.0.1280.680@2560.0.1280.680" timestamp="1598146134116" />
     <state width="1238" height="190" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1598111250548" />
-    <state width="1238" height="190" key="GridCell.Tab.0.center" timestamp="1598111250548">
-      <screen x="0" y="0" width="1280" height="760" />
+    <state width="1238" height="190" key="GridCell.Tab.0.center" timestamp="1598146134116">
+      <screen x="2560" y="0" width="1280" height="680" />
     </state>
+    <state width="1238" height="190" key="GridCell.Tab.0.center/0.0.1280.760/2560.0.1280.680@2560.0.1280.680" timestamp="1598146134116" />
     <state width="1238" height="190" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1598111250548" />
-    <state width="1238" height="190" key="GridCell.Tab.0.left" timestamp="1598111250547">
-      <screen x="0" y="0" width="1280" height="760" />
+    <state width="1238" height="190" key="GridCell.Tab.0.left" timestamp="1598146134116">
+      <screen x="2560" y="0" width="1280" height="680" />
     </state>
+    <state width="1238" height="190" key="GridCell.Tab.0.left/0.0.1280.760/2560.0.1280.680@2560.0.1280.680" timestamp="1598146134116" />
     <state width="1238" height="190" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1598111250547" />
-    <state width="1238" height="190" key="GridCell.Tab.0.right" timestamp="1598111250548">
-      <screen x="0" y="0" width="1280" height="760" />
+    <state width="1238" height="190" key="GridCell.Tab.0.right" timestamp="1598146134116">
+      <screen x="2560" y="0" width="1280" height="680" />
     </state>
+    <state width="1238" height="190" key="GridCell.Tab.0.right/0.0.1280.760/2560.0.1280.680@2560.0.1280.680" timestamp="1598146134116" />
     <state width="1238" height="190" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1598111250548" />
     <state x="142" y="25" key="SettingsEditor" timestamp="1598113525540">
       <screen x="0" y="0" width="1280" height="760" />
